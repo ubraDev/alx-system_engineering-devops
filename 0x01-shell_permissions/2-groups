@@ -1,5 +1,5 @@
 #!/bin/bash
-username=$(whoami)
-groups=$(groups $username)
-echo  $username
-echo $groups
+uname=$(whoami)
+gps=$(gps $uname)
+echo $uname
+echo $gps
