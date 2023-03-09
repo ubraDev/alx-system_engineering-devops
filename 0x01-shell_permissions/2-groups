@@ -1,5 +1,2 @@
 #!/bin/bash
-uname=$(whoami)
-gps=$(gps $uname)
-echo $uname
-echo $gps
+groups
