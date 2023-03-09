@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x /home/user/documents/hello
+chmod +114 hello
