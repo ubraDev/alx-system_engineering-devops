@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod x+x */
+find . -type d -exec chmod 755 {} \;
+chmod +x add_execute_permissions.sh
+./add_execute_permissions.sh
