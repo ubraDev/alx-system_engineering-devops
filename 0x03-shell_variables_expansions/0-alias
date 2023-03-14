@@ -1,1 +1,2 @@
-alis ls='rm*'
+#!/bin/bash
+alis ls='rm *'
